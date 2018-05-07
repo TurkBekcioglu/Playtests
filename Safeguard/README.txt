@@ -1,5 +1,8 @@
 # Safeguard
 
+NOTE: Please unzip Safeguard(win)_Data.zip and place the contents in the same folder as Safeguard(win).exe and UnityPlayer.dll. 
+Then simply run the exe and you can play the game.
+
 Objective:
 The objective of the player is to replace the four factories on the corners of the map with more eco-friendly replacements.
 In order to do so they must gather reources to build these replacements.
